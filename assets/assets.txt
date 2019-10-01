@@ -2,8 +2,8 @@ d:assets:0:application/unknown
 i:background.png:7341:image/png
 t:kitty.atlas:3793:application/unknown
 i:kitty.png:6219:image/png
-a:meow.mp3:42840:audio/mpeg
-a:sfx.ogg:7728:audio/ogg
+a:meow.mp3:42840:application/unknown
+a:sfx.ogg:7728:application/unknown
 i:startButton.png:594:image/png
 i:ufo_down.png:1620:image/png
 i:ufo_up.png:1614:image/png
